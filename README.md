@@ -9,4 +9,6 @@ To host it, you just need to download the file, place the different files on you
 
 If you don't like the monster, you can find another version of the game contain a lot of traps and no any monsters!
 
+To test this game, you can follow this link -> http://hakido.000webhostapp.com
+
 Have fun ;)!
