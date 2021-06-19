@@ -11,4 +11,6 @@ If monsters are not your thing, you can find another version of the game only fo
 
 To test this game, you can follow this link -> http://hakido.000webhostapp.com
 
+Join us at Discord, for more fun : https://discord.gg/Y4uREbHtEC !
+
 Have fun ;)!
